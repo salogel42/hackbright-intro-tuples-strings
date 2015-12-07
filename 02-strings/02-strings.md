@@ -6,7 +6,7 @@ Make sure you're in your own fork before cloning!
 *Complete these exercises the `02-strings` directory of this repository on your local machine.*
 
 1. Create a file called `parse_strings.py`.
-2. Create a variable called my_name and set it equal to your name. Turn your name into a list of letters using the  `.split()` method. 
+2. Create a variable called my_name and set it equal to your name. Turn your name into a list of letters using the  `list()` method. 
 3. Turn the string `"1,2,3,4,5"` into a list of integers. 
 4. Turn the string `"One fish two fish red fish blue fish"` into a list that looks like `["one", "two", "red", "blue"]`
 5. Create a function that calculates and returns a person’s grocery bill from this string:<br>
